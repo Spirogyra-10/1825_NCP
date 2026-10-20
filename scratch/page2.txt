@@ -1,0 +1,1109 @@
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 284.2583 757.8709 Tm
+0 g
+0 Tc
+0 Tw
+(NCP3294)Tj
+ET
+.85 .5 .22 RG
+1 J 1 j 2.041 w 10 M [] 0 d
+1 i 
+q 1 0 0 1 59.754 47.792 cm 0 0 m
+491.811 0 l
+S
+Q
+BT
+9 0 0 9 267.8173 36.8504 Tm
+0 0 1 rg
+[(www)28(.)]TJ
+ET
+267.817 35.83 23.244 .39685 re
+f
+BT
+9 0 0 9 291.0614 36.8504 Tm
+(onsemi.com)Tj
+ET
+291.061 35.83 52.441 .39685 re
+f
+BT
+8 0 0 8 301.2094 26.5891 Tm
+0 g
+(16)Tj
+/TT7 1 Tf
+10 0 0 10 68.7118 730.715 Tm
+[(Once)6.6( )]TJ
+2.3428 0 TD
+-.0105 Tc
+(OVP triggers, FCCM operation is maintained while)Tj
+-3.2385 -1.1962 TD
+-.0001 Tc
+.0237 Tw
+[(the DAC voltage ramps down at the T)]TJ
+8 0 0 8 213.6756 716.9954 Tm
+-.0014 Tc
+0 Tw
+(OFF)Tj
+10 0 0 10 228.3024 718.7528 Tm
+0 Tc
+.0229 Tw
+[( rate, preventing)]TJ
+-16.8548 -1.1962 TD
+.0115 Tw
+[(lar)17.2(ge negative voltage spikes from occurring at the output.)]TJ
+0 -1.1906 TD
+.0162 Tw
+[(Once)6.6( the DAC reaches 0, the high)]TJ
+/TT6 1 Tf
+13.7803 0 TD
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.564 0 TD
+.0162 Tw
+[(side FET is turned )-6.3(of)17(f,)]TJ
+-14.3443 -1.1962 TD
+-.0023 Tc
+-.0008 Tw
+(while the low)Tj
+/TT6 1 Tf
+5.414 0 TD
+0 Tc
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.5609 0 TD
+-.0031 Tc
+.0001 Tw
+(side FET remains on.)Tj
+/TT2 1 Tf
+9 0 0 9 69.3921 532.0063 Tm
+-.0001 Tc
+0 Tw
+(Figure 27. OVP Behavior during Normal Operation)Tj
+ET
+0 0 1 RG
+.964 w 
+q 1 0 0 1 120.246 629.405 cm 0 0 m
+61.909 0 l
+S
+Q
+0 G
+q 1 0 0 1 179.546 645.676 cm 0 0 m
+0 -47.282 l
+S
+Q
+q 1 0 0 1 179.546 649.984 cm 0 0 m
+2.948 -5.783 l
+1.134 -4.819 -1.077 -4.819 -2.835 -5.783 c
+b*
+Q
+0 0 1 RG
+q 1 0 0 1 182.154 629.405 cm 0 0 m
+61.909 -61.965 l
+S
+Q
+BT
+/TT5 1 Tf
+8 0 0 8 96.6614 625.7197 Tm
+0 0 1 rg
+0 Tc
+(DAC)Tj
+ET
+q 1 0 0 1 244.063 567.439 cm 0 0 m
+20.693 0 l
+S
+Q
+0 G
+q 1 0 0 1 125.348 634.28 cm 0 0 m
+5.726 -9.751 l
+S 1 0 0 1 5.216 -10.091 cm 0 0 m
+5.613 9.808 l
+S 1 0 0 1 5.159 10.091 cm 0 0 m
+5.669 -9.751 l
+S 1 0 0 1 5.159 -10.091 cm 0 0 m
+5.613 9.808 l
+S 1 0 0 1 5.159 10.091 cm 0 0 m
+5.669 -9.751 l
+S 1 0 0 1 5.102 -10.091 cm 0 0 m
+5.726 9.808 l
+S 1 0 0 1 5.216 10.091 cm 0 0 m
+5.613 -9.751 l
+S 1 0 0 1 5.159 -10.091 cm 0 0 m
+5.669 9.808 l
+S
+Q
+BT
+8 0 0 8 155.2819 641.9906 Tm
+0 g
+(FB)Tj
+ET
+q 1 0 0 1 251.32 567.439 cm 0 0 m
+11.282 0 l
+S 1 0 0 1 -84.643 65.027 cm 0 0 m
+13.663 23.754 l
+S
+Q
+0 .5 0 RG
+.454 w [1.8709 4.7622 ]0 d
+120.246 655.2 m
+182.154 655.2 l
+S
+[1.8709 4.7055 ]0 d
+182.154 655.2 m
+244.063 593.235 l
+S
+BT
+8 0 0 8 94.2236 660.4725 Tm
+0 .6 0 rg
+(V)Tj
+6.5 0 0 6.5 99.5527 658.7717 Tm
+.0021 Tc
+[(O)3.7(VP_TH)]TJ
+ET
+0 G
+.964 w [] 0 d
+q 1 0 0 1 244.063 560.466 cm 0 0 m
+0 -8.561 l
+S
+Q
+0 g
+q 1 0 0 1 244.063 564.888 cm 0 0 m
+2.948 -5.783 l
+1.077 -4.932 -1.02 -4.932 -2.835 -5.783 c
+b*
+Q
+BT
+8 0 0 8 114.1795 549.2977 Tm
+-.0012 Tc
+(Latch Off)Tj
+ET
+q 1 0 0 1 186.066 637.115 cm 0 0 m
+4.932 8.617 l
+S 1 0 0 1 .057 -.794 cm 0 0 m
+-5.272 19.559 l
+S 1 0 0 1 20.693 -20.126 cm 0 0 m
+-5.272 19.616 l
+S 1 0 0 1 -10.318 10.602 cm 0 0 m
+-5.329 19.616 l
+S 1 0 0 1 .397 1.304 cm 0 0 m
+4.082 7.087 l
+S 1 0 0 1 10.885 -10.998 cm 0 0 m
+4.082 7.087 l
+S 1 0 0 1 10.488 -12.529 cm 0 0 m
+-5.272 19.616 l
+S 1 0 0 1 0 .964 cm 0 0 m
+4.082 7.087 l
+S 1 0 0 1 10.375 -11.792 cm 0 0 m
+-5.329 19.616 l
+S 1 0 0 1 .057 .794 cm 0 0 m
+4.932 8.504 l
+S 1 0 0 1 10.318 -11.112 cm 0 0 m
+-5.272 19.616 l
+S 1 0 0 1 0 0 cm 0 0 m
+4.989 8.504 l
+S 1 0 0 1 12.189 -15.08 cm 0 0 m
+-6.463 24.435 l
+S 1 0 0 1 -79.37 30.047 cm 0 0 m
+7.71 0 l
+S 1 0 0 1 -15.477 -46.488 cm 0 0 m
+87.704 0 l
+S
+Q
+BT
+8 0 0 8 116.1071 595.7859 Tm
+-.001 Tc
+(OVP triggers)Tj
+/TT7 1 Tf
+10 0 0 10 68.7118 507.7418 Tm
+-.0004 Tc
+.1574 Tw
+[(During soft)]TJ
+/TT6 1 Tf
+4.7359 0 TD
+0 Tc
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.564 0 TD
+.1575 Tw
+(start, the OVP threshold is set to a fixed)Tj
+-6.1956 -1.1906 TD
+-.0004 Tc
+-.0004 Tw
+[(absolute)9.9( value of V)]TJ
+8 0 0 8 137.5937 494.0788 Tm
+.0015 Tc
+0 Tw
+(OV_A)Tj
+10 0 0 10 158.9669 495.8362 Tm
+0 Tc
+(.)Tj
+/TT2 1 Tf
+9 0 0 9 88.6677 341.0646 Tm
+-.0008 Tc
+.0001 Tw
+(Figure 28. OVP Behavior during Start)Tj
+/TT1 1 Tf
+17.5876 0 TD
+0 Tc
+0 Tw
+<00ef>Tj
+/TT2 1 Tf
+.5832 0 TD
+-.0008 Tc
+(Up)Tj
+ET
+q 1 0 0 1 172.46 464.882 cm 0 0 m
+-40.932 -23.698 l
+S
+Q
+q 1 0 0 1 176.258 467.036 cm 0 0 m
+-3.572 -5.443 l
+-3.742 -3.402 -4.819 -1.531 -6.52 -.397 c
+b*
+Q
+0 0 1 RG
+q 1 0 0 1 186.52 438.69 cm 0 0 m
+61.965 -61.965 l
+S
+Q
+BT
+/TT5 1 Tf
+8 0 0 8 82.3748 373.0961 Tm
+0 0 1 rg
+0 Tc
+(DAC)Tj
+ET
+q 1 0 0 1 248.485 376.724 cm 0 0 m
+20.636 0 l
+S
+Q
+0 G
+q 1 0 0 1 136.006 395.773 cm 0 0 m
+5.613 -9.751 l
+S
+Q
+BT
+8 0 0 8 212.3149 446.2867 Tm
+0 g
+(FB)Tj
+ET
+0 .5 0 RG
+.454 w [1.9843 4.989 ]0 d
+114.236 469.587 m
+186.52 469.587 l
+S
+[1.5874 3.9685 ]0 d
+186.52 469.587 m
+186.52 456.718 l
+S
+BT
+8 0 0 8 85.7197 467.7733 Tm
+0 .6 0 rg
+(V)Tj
+6.5 0 0 6.5 91.0488 466.0725 Tm
+.0003 Tc
+[(OV)-4.3(_A)]TJ
+ET
+0 G
+.964 w [] 0 d
+q 1 0 0 1 248.485 369.751 cm 0 0 m
+0 -8.561 l
+S
+Q
+0 g
+q 1 0 0 1 248.485 374.117 cm 0 0 m
+2.891 -5.726 l
+1.077 -4.876 -1.134 -4.876 -2.891 -5.726 c
+b*
+Q
+BT
+8 0 0 8 119.622 358.5827 Tm
+-.0012 Tc
+(Latch Off)Tj
+ET
+q 1 0 0 1 244.006 389.991 cm 0 0 m
+4.762 8.22 l
+S 1 0 0 1 -107.717 6.123 cm 0 0 m
+-5.159 -19.616 l
+S 1 0 0 1 107.717 -6.576 cm 0 0 m
+-5.159 19.616 l
+S 1 0 0 1 -9.184 12.359 cm 0 0 m
+4.082 7.087 l
+S 1 0 0 1 19.446 -23.131 cm 0 0 m
+-5.216 19.162 l
+S 1 0 0 1 -40.025 43.937 cm 0 0 m
+5.159 8.787 l
+S 1 0 0 1 10.318 -10.658 cm 0 0 m
+-5.159 19.616 l
+S 1 0 0 1 0 .68 cm 0 0 m
+4.989 8.504 l
+S 1 0 0 1 10.375 -11.055 cm 0 0 m
+-5.329 19.559 l
+S 1 0 0 1 -20.693 20.58 cm 0 0 m
+-17.405 47.792 l
+S 1 0 0 1 -53.518 -61.058 cm 0 0 m
+87.761 0 l
+S
+Q
+BT
+8 0 0 8 83.9055 436.5922 Tm
+-.001 Tc
+(OVP triggers)Tj
+ET
+0 0 1 RG
+q 1 0 0 1 104.031 376.724 cm 0 0 m
+20.58 0 l
+S 1 0 0 1 82.488 61.965 cm 0 0 m
+-61.909 -61.965 l
+S
+Q
+0 G
+q 1 0 0 1 146.665 405.865 cm 0 0 m
+-5.329 -19.616 l
+S 1 0 0 1 32.995 64.176 cm 0 0 m
+-16.441 -61.342 l
+S 1 0 0 1 -21.487 -52.044 cm 0 0 m
+5.613 -9.751 l
+S 1 0 0 1 -10.772 -11.622 cm 0 0 m
+5.613 -9.751 l
+S 1 0 0 1 10.885 11.112 cm 0 0 m
+-5.272 -19.559 l
+S 1 0 0 1 -44.05 -40.762 cm 0 0 m
+16.894 0 l
+S
+Q
+0 .5 0 RG
+.454 w [1.8709 4.7055 ]0 d
+186.293 456.095 m
+248.768 393.506 l
+S
+[1.7575 4.4787 ]0 d
+248.485 393.506 m
+269.121 393.506 l
+S
+0 G
+.964 w [] 0 d
+q 1 0 0 1 179.66 470.041 cm 0 0 m
+4.819 13.266 12.472 13.266 17.178 0 c
+S 1 0 0 1 74.608 -91.446 cm 0 0 m
+2.948 -5.102 7.483 -5.102 10.375 .113 c
+S 1 0 0 1 9.468 -1.304 cm 0 0 m
+2.098 3.628 5.613 3.628 7.71 0 c
+S
+Q
+0 .5 0 RG
+.454 w [1.9276 4.8756 ]0 d
+124.611 455.414 m
+181.361 455.414 l
+S
+BT
+8 0 0 8 87.874 453.5433 Tm
+0 .6 0 rg
+0 Tc
+(V)Tj
+6.5 0 0 6.5 93.2031 451.8426 Tm
+.0021 Tc
+[(O)3.7(VP_TH)]TJ
+/TT7 1 Tf
+10 0 0 10 68.7118 316.8568 Tm
+0 g
+0 Tc
+.0189 Tw
+[(T)66.6(o)1.1( )-16.8(restart )-16.8(the device after an OVP latch)]TJ
+/TT6 1 Tf
+16.0078 0 TD
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.564 0 TD
+.0298 Tw
+[(of)17(f, the system)]TJ
+-17.4675 -1.1962 TD
+-.0008 Tc
+0 Tw
+[(needs)8.3( to toggle VCC or EN of)17(f, and then back on.)]TJ
+/TT2 1 Tf
+9 0 0 9 59.7543 284.7119 Tm
+0 Tc
+.001 Tw
+(Thermal Shutdown \(T)Tj
+7.2 0 0 7.2 151.7669 282.7843 Tm
+.0023 Tc
+0 Tw
+(SD)Tj
+9 0 0 9 161.8016 284.7119 Tm
+0 Tc
+(\))Tj
+/TT7 1 Tf
+10 0 0 10 68.7118 272.9764 Tm
+.1927 Tw
+[(Severe)5.1( overheating is prevented by forcing the entire)]TJ
+-.8957 -1.1905 TD
+0 Tw
+[(device)7.2( )]TJ
+2.8407 0 TD
+-.0115 Tc
+(into shutdown when die temperature \(T)Tj
+8 0 0 8 241.9086 259.3134 Tm
+0 Tc
+(J)Tj
+10 0 0 10 245.0268 261.0709 Tm
+-.0086 Tc
+.0001 Tw
+[(\) reaches )10.8(t)10.7(h)10.7(e)]TJ
+-18.5272 -1.1962 TD
+-.0014 Tc
+-.0002 Tw
+(thermal shutdown threshold \(T)Tj
+8 0 0 8 182.948 247.3512 Tm
+-.0034 Tc
+0 Tw
+(SD)Tj
+10 0 0 10 193.1527 249.1087 Tm
+-.001 Tc
+(\). T)Tj
+8 0 0 8 207.5527 247.3512 Tm
+-.0034 Tc
+(SD)Tj
+10 0 0 10 217.7575 249.1087 Tm
+-.0019 Tc
+( detection activates)Tj
+-15.8003 -1.1962 TD
+0 Tc
+[(when)6( )]TJ
+2.3933 0 TD
+-.0122 Tc
+.0004 Tw
+(VCC and EN are valid. Once the thermal protection is)Tj
+-2.3933 -1.1962 TD
+-.001 Tc
+0 Tw
+(triggered, )Tj
+4.0981 0 TD
+-.007 Tc
+[(the entire chip remains of)17(f until T)]TJ
+8 0 0 8 233.0646 223.4268 Tm
+0 Tc
+(J)Tj
+10 0 0 10 236.1827 225.1843 Tm
+-.0096 Tc
+( cools to T)Tj
+8 0 0 8 277.6252 223.4268 Tm
+-.0022 Tc
+(RST)Tj
+10 0 0 10 291.515 225.1843 Tm
+0 Tc
+(,)Tj
+-23.1761 -1.1962 TD
+.3682 Tw
+[(where)5.1( an automatic recovery and soft)]TJ
+/TT6 1 Tf
+16.8571 0 TD
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.564 0 TD
+.3682 Tw
+(start sequence)Tj
+-17.421 -1.1962 TD
+0 Tw
+(commence.)Tj
+/TT2 1 Tf
+9 0 0 9 317.9338 731.5087 Tm
+-.002 Tc
+-.0021 Tw
+(Input Over)Tj
+/TT1 1 Tf
+4.9808 0 TD
+0 Tc
+0 Tw
+<00ef>Tj
+/TT2 1 Tf
+.5799 0 TD
+-.0001 Tc
+[(V)79.6(oltage Protection \(V)]TJ
+7.2 0 0 7.2 458.2488 729.5812 Tm
+-.0022 Tc
+(IN)Tj
+9 0 0 9 465.4488 731.5087 Tm
+.001 Tc
+.0039 Tw
+( OVP\))Tj
+/TT7 1 Tf
+10 0 0 10 326.8913 719.7733 Tm
+0 Tc
+.2552 Tw
+[(When)6.6( the input voltage, measured at the PVIN pin,)]TJ
+-.8957 -1.1962 TD
+0 Tw
+[(exceeds)12.4( )]TJ
+3.3784 0 TD
+-.0237 Tc
+(the V)Tj
+8 0 0 8 372.4724 706.0536 Tm
+.0004 Tc
+(PVIN_OVP)Tj
+10 0 0 10 411.137 707.811 Tm
+-.0123 Tc
+-.0007 Tw
+( threshold for the de)Tj
+/TT6 1 Tf
+7.7891 0 TD
+0 Tc
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.5476 0 TD
+-.0164 Tc
+(bounce time of)Tj
+-17.657 -1.1962 TD
+0 Tc
+(T)Tj
+8 0 0 8 324.0567 694.0914 Tm
+.001 Tc
+(D_VINOV)Tj
+10 0 0 10 358.3559 695.8489 Tm
+-.017 Tc
+-.0001 Tw
+[(,)-16.4( the device enters fault state and switching ceases.)]TJ
+-3.1465 -1.1962 TD
+0 Tc
+.4781 Tw
+[(Once)6.6( the input voltage falls below V)]TJ
+8 0 0 8 502.696 682.1292 Tm
+.0004 Tc
+0 Tw
+(PVIN_OVP)Tj
+4.8331 .2197 TD
+0 Tc
+( )Tj
+/TT6 1 Tf
+10 0 0 10 547.2 683.8867 Tm
+<00ef>Tj
+/TT7 1 Tf
+-22.9266 -1.1962 TD
+(V)Tj
+8 0 0 8 325.1339 670.167 Tm
+.0004 Tc
+(PVIN_HYS)Tj
+10 0 0 10 363.7984 671.9244 Tm
+-.0031 Tc
+-.0003 Tw
+[(, an automatic restart occurs after a fixed 32)-249.4(ms)]TJ
+-4.5865 -1.1906 TD
+0 Tc
+0 Tw
+[(delay)67.9(.)]TJ
+/TT2 1 Tf
+9 0 0 9 317.9338 639.8362 Tm
+-.0012 Tc
+-.0007 Tw
+(Hiccup / Latch)Tj
+/TT1 1 Tf
+6.8174 0 TD
+0 Tc
+0 Tw
+<00ef>Tj
+/TT2 1 Tf
+.5821 0 TD
+-.0019 Tc
+(Off Mode)Tj
+/TT7 1 Tf
+10 0 0 10 326.8913 628.1008 Tm
+0 Tc
+.0489 Tw
+[(The selected resistor value at the MODE2/SF)73.7(AUL)93.6(T pin)]TJ
+-.8957 -1.1962 TD
+0 Tw
+(\(R)Tj
+8 0 0 8 327.9118 614.3811 Tm
+-.0006 Tc
+[(MODE2/SF)73.7(AUL)92.9(T)]TJ
+10 0 0 10 386.5323 616.1386 Tm
+.0001 Tc
+.0433 Tw
+(\) determines whether hiccup or latch)Tj
+/TT6 1 Tf
+14.8512 0 TD
+0 Tc
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.564 0 TD
+[(of)17(f)]TJ
+-22.275 -1.1962 TD
+[(protection)6.3( )]TJ
+4.2815 0 TD
+-.0164 Tc
+[(mode is applied under )30.3(V)]TJ
+8 0 0 8 454.6772 602.4189 Tm
+.0007 Tc
+(OUT)Tj
+10 0 0 10 471.1181 604.1764 Tm
+-.0226 Tc
+[( OVP)113.4(,)8.7( )8.7(V)]TJ
+8 0 0 8 502.8661 602.4189 Tm
+.0007 Tc
+(OUT)Tj
+10 0 0 10 519.3071 604.1764 Tm
+-.0228 Tc
+.0001 Tw
+[( UVP)113.2(, or)]TJ
+-20.1373 -1.1906 TD
+-.0008 Tc
+-.0002 Tw
+[(OCP)5.6( conditions.)]TJ
+.8957 -1.1962 TD
+-.0108 Tc
+0 Tw
+[(T)55.8(o)-9.7( restart a device in latch)]TJ
+/TT6 1 Tf
+10.2858 0 TD
+0 Tc
+<00ef>Tj
+/TT7 1 Tf
+.5532 0 TD
+-.0117 Tc
+-.0001 Tw
+[(of)16.1(f mode, EN or VCC need to)]TJ
+-11.7347 -1.1962 TD
+-.0001 Tc
+.0763 Tw
+[(be toggled. In hiccup mode, the idle time counter \(T)]TJ
+8 0 0 8 533.3102 566.589 Tm
+0 Tw
+(HCP)Tj
+10 0 0 10 548.8441 568.3465 Tm
+0 Tc
+(\))Tj
+-23.091 -1.1962 TD
+-.0025 Tc
+(begins )Tj
+2.8431 0 TD
+-.0091 Tc
+(counting when )Tj
+6.0339 0 TD
+-.0131 Tc
+[(the device shuts down for OCP)113.3(, UVP)114(,)]TJ
+-8.877 -1.1962 TD
+0 Tc
+.1069 Tw
+[(or )-15.2(the )-15.2(end )-15.2(of OVP DAC ramp down. A normal start)]TJ
+/TT6 1 Tf
+21.8615 0 TD
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.564 0 TD
+(up)Tj
+-22.4255 -1.1962 TD
+-.0007 Tc
+-.0002 Tw
+[(sequence)12.8( automatically occurs once T)]TJ
+8 0 0 8 469.7008 530.7024 Tm
+-.0001 Tc
+0 Tw
+(HCP)Tj
+10 0 0 10 485.2346 532.4599 Tm
+-.001 Tc
+( expires.)Tj
+/TT2 1 Tf
+9 0 0 9 317.9338 512.3339 Tm
+0 Tc
+.0124 Tw
+(PGOOD Pin)Tj
+/TT7 1 Tf
+10 0 0 10 326.8913 500.5984 Tm
+.051 Tw
+[(The PGOOD signal is held low during )24.4(soft)]TJ
+/TT6 1 Tf
+17.4692 0 TD
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.564 0 TD
+.0266 Tw
+(start and in)Tj
+-18.9289 -1.1962 TD
+-.0006 Tc
+-.0006 Tw
+[(shutdown)10.8( state.)]TJ
+.8957 -1.1962 TD
+-.0036 Tc
+-.0045 Tw
+[(PGOOD)5.6( is )]TJ
+4.5701 0 TD
+-.0081 Tc
+0 Tw
+(high while V)Tj
+8 0 0 8 423.8362 474.9166 Tm
+-.0034 Tc
+(FB)Tj
+10 0 0 10 433.5874 476.674 Tm
+-.0046 Tc
+( remains within the adjustable)Tj
+-11.5654 -1.1962 TD
+0 Tc
+.4084 Tw
+[(regulation)6.3( envelope determined by the V)]TJ
+8 0 0 8 501.8456 462.9544 Tm
+0 Tw
+(OVP_TH)Tj
+3.8339 .2197 TD
+( )Tj
+10 0 0 10 537.7889 464.7119 Tm
+(and)Tj
+-21.9855 -1.1962 TD
+(V)Tj
+8 0 0 8 325.1339 450.9922 Tm
+(UVP_TH)Tj
+3.8339 .2197 TD
+( )Tj
+10 0 0 10 357.789 452.7497 Tm
+(thresholds.)Tj
+-3.0898 -1.1962 TD
+-.0066 Tc
+(During thermal shutdown \(T)Tj
+8 0 0 8 439.8803 439.03 Tm
+-.0034 Tc
+(SD)Tj
+10 0 0 10 450.085 440.7874 Tm
+-.0115 Tc
+-.0002 Tw
+(\), PGOOD is low until the)Tj
+-13.2151 -1.1906 TD
+0 Tc
+.1088 Tw
+[(device)7.2( suf)17(ficiently cools. PGOOD will be low during all)]TJ
+0 -1.1962 TD
+-.0008 Tc
+-.0002 Tw
+(fault conditions.)Tj
+/TT2 1 Tf
+9 0 0 9 317.9338 396.7371 Tm
+0 Tc
+0 Tw
+(2)Tj
+/TT1 1 Tf
+.555 0 TD
+<00ef>Tj
+/TT2 1 Tf
+.5828 0 TD
+-.0012 Tc
+(Phase Frequency and Synchronization)Tj
+/TT7 1 Tf
+10 0 0 10 326.8913 385.0016 Tm
+-.0127 Tc
+[(P)-12.7(e)-12.7(r)-12( phase switching frequency \(F)]TJ
+8 0 0 8 457.0583 383.2441 Tm
+-.0034 Tc
+(SW)Tj
+10 0 0 10 469.0205 385.0016 Tm
+-.0165 Tc
+(\) and phase count \(N\))Tj
+-15.1087 -1.1906 TD
+-.0001 Tc
+.4261 Tw
+[(are programmed by R)]TJ
+8 0 0 8 418.1669 371.3386 Tm
+-.0016 Tc
+0 Tw
+(SYNC/FSET)Tj
+5.2654 .2197 TD
+0 Tc
+( )Tj
+10 0 0 10 465.7323 373.0961 Tm
+-.0013 Tc
+.4279 Tw
+[(and R)]TJ
+8 0 0 8 493.5685 371.3386 Tm
+-.0006 Tc
+0 Tw
+[(MODE2/SF)73.7(AUL)92.9(T)]TJ
+10 0 0 10 317.9338 361.1339 Tm
+0 Tc
+.0197 Tw
+[(resistor)7.2( value selections per T)68(able 2. The master and slave)]TJ
+0 -1.1962 TD
+.0265 Tw
+[(phases)12.8( are determined by FB and VSNS)]TJ
+/TT6 1 Tf
+16.2544 0 TD
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.564 0 TD
+.0265 Tw
+[( pin connections)]TJ
+-16.8184 -1.1962 TD
+-.0002 Tc
+0 Tw
+[(shown)8.9( in T)68(able)-245.2(1.)]TJ
+.8957 -1.1962 TD
+-.0294 Tc
+[(I)-29.4(n)-29.8( a )-16.6(2)]TJ
+/TT6 1 Tf
+2.1927 0 TD
+0 Tc
+<00ef>Tj
+/TT7 1 Tf
+.5511 0 TD
+-.0128 Tc
+(phase system, the master outputs a SYNC signal to)Tj
+-3.6396 -1.1962 TD
+-.009 Tc
+[(t)-9(h)-9(e)-6.2( the slaves’ SYNC pins to establish a common switching)]TJ
+T*
+0 Tc
+.1414 Tw
+[(frequency)6.4( and evenly space the phases, as shown in the)]TJ
+T*
+-.0001 Tc
+-.0001 Tw
+[(subsequent)16( figure:)]TJ
+.8957 -1.1906 TD
+0 Tc
+.1769 Tw
+[(The falling edge of the SYNC pulse resets the ramp,)]TJ
+-.8957 -1.1962 TD
+.0659 Tw
+[(beginning)8.3( the interleaved PWM on)]TJ
+/TT6 1 Tf
+14.3077 0 TD
+0 Tw
+<00ef>Tj
+/TT7 1 Tf
+.564 0 TD
+.0659 Tw
+(cycles after a narrow)Tj
+-14.8717 -1.1962 TD
+.2297 Tw
+[(propagation)8.5( delay)62.4(. )-6(The vertical dotted lines signify the)]TJ
+T*
+-.0007 Tc
+-.0003 Tw
+[(modulated)8.2( PWM edge \(duty cycle\).)]TJ
+/TT2 1 Tf
+9 0 0 9 212.2583 85.0394 Tm
+-.0012 Tc
+0 Tw
+(Figure 29. 2)Tj
+/TT1 1 Tf
+5.5436 0 TD
+0 Tc
+<00ef>Tj
+/TT2 1 Tf
+.5828 0 TD
+-.001 Tc
+-.0002 Tw
+[(Phase Synchronization T)19.1(iming)]TJ
+ET
+0 G
+.964 w [] 0 d
+q 1 0 0 1 346.62 175.181 cm 0 0 m
+-210.104 0 l
+S
+Q
+q 1 0 0 1 349.739 175.181 cm 0 0 m
+-4.082 -2.041 l
+-3.402 -.68 -3.402 .794 -4.082 2.098 c
+b*
+Q
+q 1 0 0 1 133.398 175.181 cm 0 0 m
+4.139 2.098 l
+3.458 .794 3.458 -.68 4.139 -2.041 c
+b*
+Q
+BT
+/TT5 1 Tf
+8 0 0 8 76.3087 109.4173 Tm
+0 0 1 rg
+-.0016 Tc
+0 Tw
+( Slave PWM)Tj
+ET
+q 1 0 0 1 241.625 152.674 cm 0 0 m
+-94.677 0 l
+S 1 0 0 1 -108.227 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 4.535 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 9.014 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 -4.535 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 -9.014 13.493 cm 0 0 m
+4.535 0 l
+S 1 0 0 1 4.535 -13.493 cm 0 0 m
+4.479 0 l
+S 1 0 0 1 4.479 13.493 cm 0 0 m
+4.535 0 l
+S 1 0 0 1 207.326 -13.493 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 4.479 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 9.071 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 -4.479 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 -9.071 13.493 cm 0 0 m
+4.479 0 l
+S 1 0 0 1 4.479 -13.493 cm 0 0 m
+4.592 0 l
+S 1 0 0 1 4.592 13.493 cm 0 0 m
+4.479 0 l
+S
+Q
+.454 w 
+q 1 0 0 1 133.398 169.569 cm 0 0 m
+0 10.148 l
+S
+Q
+.964 w 
+q 1 0 0 1 124.894 152.674 cm 0 0 m
+8.504 0 l
+S 1 0 0 1 116.731 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 13.493 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 -13.493 13.493 cm 0 0 m
+13.493 0 l
+S 1 0 0 1 108.113 -13.493 cm 0 0 m
+-94.62 0 l
+S 1 0 0 1 13.55 0 cm 0 0 m
+94.62 0 l
+S
+Q
+BT
+8 0 0 8 100.6299 154.4315 Tm
+0 Tc
+(SYNC)Tj
+-3.3803 -2.8134 TD
+-.0016 Tc
+(Master PWM)Tj
+ET
+q 1 0 0 1 124.384 130.167 cm 0 0 m
+24.775 0 l
+24.775 13.493 l
+S
+Q
+[1.6441 4.1953 ]0 d
+162.765 130.167 m
+162.765 143.66 l
+S
+[] 0 d
+q 1 0 0 1 149.159 143.66 cm 0 0 m
+13.606 0 l
+S 1 0 0 1 108.227 -36.057 cm 0 0 m
+0 13.493 l
+S
+Q
+[1.6441 4.1953 ]0 d
+270.879 107.603 m
+270.879 121.096 l
+S
+[] 0 d
+q 1 0 0 1 257.386 121.096 cm 0 0 m
+13.493 0 l
+S 1 0 0 1 108.17 9.071 cm 0 0 m
+0 13.493 l
+S
+Q
+[1.6441 4.1953 ]0 d
+379.049 130.167 m
+379.049 143.66 l
+S
+[] 0 d
+q 1 0 0 1 365.556 143.66 cm 0 0 m
+13.493 0 l
+S 1 0 0 1 -202.791 -13.493 cm 0 0 m
+202.791 0 l
+S 1 0 0 1 216.283 0 cm 0 0 m
+169.058 0 l
+S 1 0 0 1 -254.665 -22.564 cm 0 0 m
+133.002 0 l
+S 1 0 0 1 146.494 0 cm 0 0 m
+202.791 0 l
+S
+Q
+.454 w 
+q 1 0 0 1 349.739 169.569 cm 0 0 m
+0 10.148 l
+S
+Q
+.964 w 
+q 1 0 0 1 457.909 152.674 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 13.606 0 cm 0 0 m
+0 13.493 l
+S 1 0 0 1 -13.606 13.493 cm 0 0 m
+13.606 0 l
+S 1 0 0 1 13.606 -13.493 cm 0 0 m
+76.592 0 l
+S 1 0 0 1 2.154 -45.071 cm 0 0 m
+0 13.493 l
+S
+Q
+[1.6441 4.1953 ]0 d
+487.276 107.603 m
+487.276 121.096 l
+S
+[] 0 d
+q 1 0 0 1 473.669 121.096 cm 0 0 m
+13.606 0 l
+S 1 0 0 1 13.606 -13.493 cm 0 0 m
+60.832 0 l
+S
+Q
+.454 w 
+q 1 0 0 1 149.159 109.814 cm 0 0 m
+0 18.028 l
+S
+Q
+.964 w 
+q 1 0 0 1 254.268 115.483 cm 0 0 m
+-101.991 0 l
+S
+Q
+0 g
+q 1 0 0 1 257.386 115.483 cm 0 0 m
+-4.139 -2.041 l
+-3.458 -.737 -3.458 .737 -4.139 1.984 c
+b*
+Q
+q 1 0 0 1 149.159 115.483 cm 0 0 m
+4.139 1.984 l
+3.515 .737 3.515 -.737 4.139 -2.041 c
+b*
+Q
+BT
+8 0 0 8 216.0567 179.0929 Tm
+.09 .21 .38 rg
+0 Tc
+(T)Tj
+6.5 0 0 6.5 220.9323 177.3922 Tm
+.0046 Tc
+(SW)Tj
+8 0 0 8 231.4772 179.0929 Tm
+-.0019 Tc
+( = 1 / F)Tj
+6.5 0 0 6.5 256.4787 177.3922 Tm
+.0046 Tc
+(SW)Tj
+-10.2745 -8.6958 TD
+0 Tc
+(1)Tj
+8 0 0 8 193.3228 118.4315 Tm
+(/)Tj
+6.5 0 0 6.5 195.5338 116.7308 Tm
+(2)Tj
+8 0 0 8 199.1622 118.4315 Tm
+-.0014 Tc
+( T)Tj
+6.5 0 0 6.5 206.2488 116.7308 Tm
+.0046 Tc
+(SW)Tj
+ET
